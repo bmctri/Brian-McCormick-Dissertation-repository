@@ -4,3 +4,4 @@ Original source of the study is here - https://journals.plos.org/plosone/article
 Original data for study is here https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=7656
 ____
 "Westlaw_WB_law_search" this is the code for Figure 6: Westlaw Database search for ‘WellBeing’
+Gephi table of stakeholders file: weighted scores for each stakeholdre, based on thoer connectivity to central playes like SG/committees and each other
