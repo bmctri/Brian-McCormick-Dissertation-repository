@@ -1,0 +1,153 @@
+Id,Label,type,tags,description,web,indegree,outdegree,Degree,modularity_class,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,clustering
+0,Scottish Government,Governmental,policy|politics|Institution,Holyrood Parliament,The Scottish Government - gov.scot (www.gov.scot),108,1,109,0,1,1,1,123.833333,0.023278
+1,SNP,Governmental,policy|politics|Institution,current Government,,4,1,5,0,1,1,1,0.25,0.25
+2,Scottish Labour,Governmental,policy|politics|Institution,opposition party,,4,1,5,0,2,0.666667,0.75,2.25,0.25
+3,Scottish Conservative,Governmental,policy|politics|Institution,opposition party,,2,1,3,0,2,0.666667,0.75,0.25,0.333333
+4,Scottish Lib Dem,Governmental,policy|politics|Institution,opposition party,,2,1,3,0,2,0.666667,0.75,0.25,0.333333
+5,Scottish Green,Governmental,policy|politics|Institution,opposition party,,1,1,2,0,2,0.666667,0.75,0,0.5
+6,UK Gov,Governmental,policy|politics|Institution,UK Government,The Palace of Westminster - UK Parliament,7,4,11,0,2,0.833333,0.9,170.208333,0.054545
+7,The Scottish Office,Governmental,policy|politics|Institution,UK Governernment represenatative in Scotland,Scottish Office - GOV.UK (www.gov.uk),2,3,5,0,2,0.666667,0.75,218.333333,0.3
+8,Citizen Participation and Public Petitions Committee,Governmental,policy|politics|Institution|SG committee,SG Committee,Citizen Participation and Public Petitions Committee | Scottish Parliament Website,1,1,2,0,2,0.666667,0.75,0,0.5
+9,"Constitution, Europe, External Affairs and Culture Committee",Governmental,policy|politics|Institution|SG committee,SG Committee,"Constitution, Europe, External Affairs and Culture Committee | Scottish Parliament Website",1,1,2,0,2,0.666667,0.75,0,0.5
+10,Criminal Justice Committee,Governmental,policy|politics|Institution|SG committee,SG Committee,Criminal Justice Committee | Scottish Parliament Website,1,1,2,0,2,0.666667,0.75,0,0.5
+11,Delegated Powers and Law Reform Committee,Governmental,policy|politics|Institution|SG committee,SG Committee,Delegated Powers and Law Reform Committee | Scottish Parliament Website,1,1,2,0,2,0.666667,0.75,0,0.5
+12,Economy and Fair Work Committee,Governmental,policy|politics|Institution|SG committee,SG Committee,Economy and Fair Work Committee | Scottish Parliament Website,2,1,3,1,2,0.666667,0.75,0,0.333333
+13,"Education, Children and Young People Committee",Governmental,policy|politics|Institution|SG committee,SG Committee,"Education, Children and Young People Committee | Scottish Parliament Website",1,1,2,0,2,0.666667,0.75,0,0.5
+14,"Equalities, Human Rights and Civil Justice Committee",Governmental,policy|politics|Institution|SG committee,SG Committee,"Equalities, Human Rights and Civil Justice Committee | Scottish Parliament Website",2,1,3,0,2,0.666667,0.75,0,0.333333
+15,Finance and Public Administration Committee,Governmental,policy|politics|Institution|SG committee,SG Committee,Finance and Public Administration Committee | Scottish Parliament Website,3,1,4,1,2,0.666667,0.75,0,0.583333
+16,"Health, Social Care and Sport Committee",Governmental,policy|politics|Institution|SG committee,SG Committee,"Health, Social Care and Sport Committee | Scottish Parliament Website",4,1,5,0,2,0.666667,0.75,0,0.25
+17,"Local Government, Housing and Planning Committee",Governmental,policy|politics|Institution|SG committee,SG Committee,"Local Government, Housing and Planning Committee | Scottish Parliament Website",0,1,1,0,2,0.666667,0.75,0,0
+18,"Net Zero, Energy and Transport Committee",Governmental,policy|politics|Institution|SG committee,SG Committee,"Net Zero, Energy and Transport Committee | Scottish Parliament Website",1,1,2,0,2,0.666667,0.75,0,0.5
+19,Public Audit Committee,Governmental,policy|politics|Institution|SG committee,SG Committee,Public Audit Committee | Scottish Parliament Website,1,1,2,0,2,0.666667,0.75,0,0.5
+20,Rural Affairs and Islands Committee,Governmental,policy|politics|Institution|SG committee,SG Committee,Session 6 Rural Affairs and Islands Committee | Scottish Parliament Website,0,1,1,0,2,0.666667,0.75,0,0
+21,Social Justice and Social Security Committee,Governmental,policy|politics|Institution|SG committee,SG Committee,Social Justice and Social Security Committee | Scottish Parliament Website,1,1,2,0,2,0.666667,0.75,0,0.5
+22,"Standards, Procedures and Public Appointments Committee",Governmental,policy|politics|Institution|SG committee,SG Committee,"Standards, Procedures and Public Appointments Committee | Scottish Parliament Website",0,1,1,0,2,0.666667,0.75,0,0
+23,Scottish Government Executive Team,Governmental,policy|politics|Institution,Holyrood Parliament,Government structure - gov.scot (www.gov.scot),0,2,2,0,3,0.538462,0.619048,0,0.5
+24,Scottish Government’s National Performance Framework Unit,Governmental,policy|politics|Institution,civil service,Scottish Government’s National Performance Framework Unit,2,2,4,1,3,0.538462,0.619048,83,0.25
+25,"The Scottish Government's Health and Social Care Directorate, Education and Justice departments",Governmental,policy|politics|Institution,civil service,Directorates - gov.scot (www.gov.scot),0,1,1,0,2,0.666667,0.75,0,0
+26,"Maree Todd: Minister for  Health and Social Care, Mental Wellbeing & Sport",Governmental,policy|politics|Institution,current Government,"Minister for Social Care, Mental Wellbeing and Sport - gov.scot (www.gov.scot)",0,1,1,0,2,0.666667,0.75,0,0
+27,Sarah Boyack,Governmental,policy|politics,opposition party,Sarah Boyack | Scottish Parliament Website,0,2,2,0,6,0.305556,0.331364,0,0
+28,Dumfries and Galloway Council,Governmental,policy|politics|Institution,Local Authority,Home page - Dumgal - Dumfries and Galloway Council,7,2,9,2,9,0.186644,0.231306,113.720406,0.236111
+29,East Lothian Council,Governmental,policy|politics|Institution,Local Authority,East Lothian Council Homepage,5,2,7,2,9,0.186644,0.231306,6.43048,0.238095
+30,East Renfrewshire Council,Governmental,policy|politics|Institution,Local Authority,East Renfrewshire - East Renfrewshire Council,5,2,7,2,9,0.186644,0.231306,6.43048,0.238095
+31,Renfrewshire Council,Governmental,policy|politics|Institution,Local Authority,Renfrewshire Council (Public) - Renfrewshire Website,5,2,7,2,9,0.186644,0.231306,6.43048,0.238095
+32,Dundee City Council,Governmental,policy|politics|Institution,Local Authority,Dundee City Council | Changing For The Future,5,2,7,2,9,0.186964,0.23207,7.720406,0.166667
+33,Clackmannanshire Council,Governmental,policy|politics|Institution,Local Authority,Clackmannanshire Council Online (clacks.gov.uk),5,2,7,2,10,0.15843,0.19281,0,0.285714
+34,Angus Council,Governmental,policy|politics|Institution,Local Authority,home | Angus Council,4,2,6,2,9,0.186964,0.23207,6.43048,0.2
+35,Argyll and Bute Council,Governmental,policy|politics|Institution,Local Authority,Welcome to Argyll & Bute Council | Argyll and Bute Council (argyll-bute.gov.uk),5,2,7,2,9,0.186644,0.231306,6.43048,0.238095
+36,West Lothian Council,Governmental,policy|politics|Institution,Local Authority,West Lothian Council - West Lothian Council,4,2,6,2,9,0.186964,0.23207,6.43048,0.2
+37,Inverclyde Council,Governmental,policy|politics|Institution,Local Authority,Home - Inverclyde Council,4,2,6,2,9,0.186964,0.23207,6.43048,0.2
+38,Fife Council,Governmental,policy|politics|Institution,Local Authority,Home | Fife Council,5,2,7,2,9,0.186644,0.231306,6.43048,0.238095
+39,Falkirk Council,Governmental,policy|politics|Institution,Local Authority,Falkirk Council,5,2,7,2,9,0.186644,0.231306,6.43048,0.238095
+40,West Dunbartonshire Council,Governmental,policy|politics|Institution,Local Authority,Homepage | West Dunbartonshire Council (west-dunbarton.gov.uk),4,2,6,2,9,0.186964,0.23207,6.43048,0.2
+41,Stirling Council,Governmental,policy|politics|Institution,Local Authority,Home | Stirling Council,5,2,7,2,9,0.186644,0.231306,6.43048,0.238095
+42,Orkney Islands Council,Governmental,policy|politics|Institution,Local Authority,https://www.orkney.gov.uk/,5,2,7,2,9,0.186644,0.231306,6.43048,0.238095
+43,South Ayrshire Council,Governmental,policy|politics|Institution,Local Authority,Home - South Ayrshire Council (south-ayrshire.gov.uk),5,2,7,2,9,0.186644,0.231306,6.43048,0.238095
+44,Aberdeen City Council,Governmental,policy|politics|Institution,Local Authority,Home | Aberdeen City Council,6,2,8,2,9,0.186644,0.231306,7.720406,0.196429
+45,City of Edinburgh Council,Governmental,policy|politics|Institution,Local Authority,Home – The City of Edinburgh Council,6,2,8,2,9,0.186644,0.231306,7.720406,0.196429
+46,South Lanarkshire Council,Governmental,policy|politics|Institution,Local Authority,South Lanarkshire Council,4,2,6,2,9,0.186964,0.23207,6.43048,0.2
+47,Scottish Borders Council,Governmental,policy|politics|Institution,Local Authority,Scottish Borders Council – Scottish Borders Council (scotborders.gov.uk),5,2,7,2,9,0.186964,0.23207,7.720406,0.166667
+48,Na h-Eileanan Siar Council,Governmental,policy|politics|Institution,Local Authority,Comhairle nan Eilean Siar – Ag Obair Còmhla Airson nan Eilean (cne-siar.gov.uk),5,2,7,2,9,0.186644,0.231306,6.43048,0.238095
+49,Highland Council,Governmental,policy|politics|Institution,Local Authority,The Highland Council Homepage,4,2,6,2,9,0.186964,0.23207,6.43048,0.2
+50,North Ayrshire Council,Governmental,policy|politics|Institution,Local Authority,North Ayrshire Council (north-ayrshire.gov.uk),6,2,8,2,9,0.186644,0.231306,13.131121,0.196429
+51,East Ayrshire Council,Governmental,policy|politics|Institution,Local Authority,Home · East Ayrshire Council (east-ayrshire.gov.uk),4,2,6,2,9,0.186964,0.23207,6.43048,0.2
+52,Midlothian Council,Governmental,policy|politics|Institution,Local Authority,Midlothian Council Homepage,5,2,7,2,9,0.186964,0.23207,7.097146,0.166667
+53,Moray Council,Governmental,policy|politics|Institution,Local Authority,Moray Council - Moray Council,5,2,7,2,9,0.186644,0.231306,6.43048,0.238095
+54,Aberdeenshire Council,Governmental,policy|politics|Institution,Local Authority,Home - Aberdeenshire Council,6,2,8,2,9,0.186644,0.231306,7.720406,0.196429
+55,Perth and Kinross Council,Governmental,policy|politics|Institution,Local Authority,Perth and Kinross Council - Perth & Kinross Council (pkc.gov.uk),5,2,7,2,9,0.186644,0.231306,6.43048,0.238095
+56,East Dunbartonshire Council,Governmental,policy|politics|Institution,Local Authority,East Dunbartonshire Council | Welcome to East Dunbartonshire Council,4,2,6,2,9,0.186964,0.23207,6.43048,0.2
+57,Shetland Islands Council,Governmental,policy|politics|Institution,Local Authority,Shetland Islands Council – Shetland Islands Council,5,2,7,2,9,0.186644,0.231306,6.43048,0.238095
+58,Glasgow City Council,Governmental,policy|politics|Institution,Local Authority,Glasgow - Glasgow City Council,5,2,7,2,9,0.186644,0.231306,6.43048,0.238095
+59,North Lanarkshire Council,Governmental,policy|politics|Institution,Local Authority,Welcome to North Lanarkshire Council | North Lanarkshire Council,5,2,7,2,9,0.186964,0.23207,7.097146,0.166667
+60,Community Planning Partnerships,Public body,health|Institution,public body,Community planning - Improving public services - gov.scot (www.gov.scot),1,1,2,1,9,0.187608,0.227101,109.833333,0
+61,NHS Scotland NSS,Public body,health|Institution,public body,Executive Management Team | National Services Scotland (nhs.scot),16,16,32,0,1,1,1,893.10119,0.033266
+62,Social Securty Scotland,Public body,infrastructure|Institution,public body, https://www.socialsecurity.gov.scot/,1,2,3,0,2,0.75,0.833333,82,0.333333
+63,Transport Scotland,Public body,infrastructure|Institution,public body, http://www.transport.gov.scot,1,2,3,0,2,0.75,0.833333,82,0.333333
+64,Scottish Housing Regulator,Public body,infrastructure|Institution,public body, http://www.scottishhousingregulator.gov.uk,1,3,4,0,9,0.190893,0.241372,156,0.25
+65,Scottish Courts and Tribunals Service,Public body,social|Institution,public body, http://www.scotcourts.gov.uk,1,2,3,0,2,0.75,0.833333,8,0.333333
+66,NHS Ayrshire & Arran,Public body,health|Institution,public body,https://www.nhsaaa.net/ ,2,1,3,0,2,0.515152,0.529412,1.071429,0.166667
+67,NHS Borders,Public body,health|Institution,public body,http://www.nhsborders.org.uk,2,1,3,0,2,0.515152,0.529412,1.071429,0.166667
+68,NHS Dumfries & Galloway,Public body,health|Institution,public body, http://www.nhsdg.scot.nhs.uk,2,1,3,0,2,0.515152,0.529412,1.071429,0.166667
+69,NHS Fife,Public body,health|Institution,public body,http://www.nhsfife.scot.nhs.uk,2,1,3,0,2,0.515152,0.529412,1.071429,0.166667
+70,NHS Forth Valley,Public body,health|Institution,public body, https://nhsforthvalley.com/,2,1,3,0,2,0.515152,0.529412,1.071429,0.166667
+71,NHS Grampian,Public body,health|Institution,public body,http://www.nhsgrampian.org,3,1,4,0,2,0.515152,0.529412,4.64881,0.083333
+72,NHS Greater Glasgow and Clyde,Public body,health|Institution,public body,http://www.nhsggc.org.uk,4,1,5,0,2,0.515152,0.529412,508.14881,0.15
+73,NHS Highland,Public body,health|Institution,public body, http://www.nhshighland.scot.nhs.uk,2,1,3,0,2,0.515152,0.529412,1.071429,0.166667
+74,NHS Lanarkshire,Public body,health|Institution,public body,http://www.nhslanarkshire.org.uk,2,1,3,0,2,0.515152,0.529412,1.071429,0.166667
+75,NHS Lothian,Public body,health|Institution,public body, http://www.nhslothian.scot.nhs.uk,2,1,3,0,2,0.515152,0.529412,1.071429,0.166667
+76,NHS Orkney,Public body,health|Institution,public body,http://www.ohb.scot.nhs.uk,1,1,2,0,2,0.515152,0.529412,1.071429,0
+77,NHS Shetland,Public body,health|Institution,public body, http://www.shb.scot.nhs.uk,1,1,2,0,2,0.515152,0.529412,1.071429,0
+78,NHS Tayside,Public body,health|Institution,public body,http://www.nhstayside.scot.nhs.uk,3,1,4,1,2,0.515152,0.529412,19.14881,0
+79,NHS Western Isles,Public body,health|Institution,public body, http://www.wihb.scot.nhs.uk,1,1,2,0,2,0.515152,0.529412,1.071429,0
+80,Healthcare Improvement Scotland,Public body,health|Institution,public body, http://www.healthcareimprovementscotland.org,2,17,19,0,10,0.232409,0.37022,1379.541667,0.052632
+81,Social enterprise Scotland,Public body,social enterprise,public body,Social Enterprise Scotland,0,1,1,0,2,0.666667,0.75,0,0
+82,Public Health Scotland,Public body,health|Institution,public body,Public Health Scotland,3,3,6,0,9,0.257611,0.318694,274.833333,0.2
+83,Education Scotland,Public body,education|Institution,public body,https://education.gov.scot/,0,34,34,2,10,0.192374,0.422369,0,0.030303
+84,Sport Scotland,Public body,social|Institution,public body,sportscotland - sportscotland the national agency for sport in Scotland,0,2,2,0,2,0.75,0.833333,0,0.5
+85,NPF Expert Advisory Group,Governmental Advisory,policy|politics,civil service,NPAG: NHS & Public Sector Support,5,3,8,1,2,0.714286,0.8,28.666667,0.357143
+86,NPF Technical Advisory Grp,Governmental Advisory,policy|politics,civil service,National Performance Framework | National Performance Framework,6,3,9,1,2,0.714286,0.8,29.666667,0.339286
+87,NPF Policy Advisory Group,Governmental Advisory,policy|politics,civil service,National Performance Framework | National Performance Framework,5,4,9,1,2,0.833333,0.9,29.666667,0.339286
+88,The Scottish Social Services Council (SSSC),Governmental Advisory,policy|politics|Institution,civil service,The Scottish Social Services Council - Scottish Social Services Council (sssc.uk.com),0,1,1,0,2,0.666667,0.75,0,0
+89,Scottish Fiscal Commission,Governmental Advisory,policy analysis,external analysis,Scottish Fiscal Commission,0,1,1,0,2,0.666667,0.75,0,0
+90,improvement service,Governmental Advisory,Institution,internal analysis,Improvement Service | Improvement Service,1,39,40,2,9,0.318966,0.523888,85.916667,0.048718
+91,SURF: Scotlands Regneration Forum,Community Advocacy,policy analysis,external analysis,SURF - Scotland’s Regeneration Forum,3,33,36,2,10,0.186964,0.411617,1089.803205,0.045238
+92,Community Ownership Support Service,Community Advocacy,community|economy,external analysis,DTAS Community Ownership Support Service |,0,3,3,1,7,0.289744,0.350232,0,0.166667
+93,Oxfam Scotland,Community Advocacy,policy analysis,external analysis,Oxfam Scotland – Oxfam Scotland (oxfamapps.org),4,12,16,1,6,0.283117,0.359021,464.041667,0.128571
+94,Scottish Women’s Budget Group,Community Advocacy,policy analysis,external analysis,Scottish Women's Budget Group (swbg.org.uk),2,1,3,1,7,0.251152,0.270118,51.25,0.5
+95,Scottish Mens Shed Assoc,Community Advocacy,community|mental health,external analysis,https://scottishmsa.org.uk/,1,1,2,1,7,0.251716,0.270693,23.083333,0
+96,Carers Scotland,Community Advocacy,social|community,external analysis,Scotland | Carers Scotland (carersuk.org),2,1,3,1,7,0.251152,0.270118,51.25,0.5
+97,Scottish Care,Community Advocacy,social|community,external analysis,Scottish Care | The voice of the independent social care sector in Scotland,2,1,3,1,7,0.251152,0.270118,0,0.5
+98,One Parent Families Scotland,Community Advocacy,social|community,external analysis,"Changing lives, challenging poverty - One Parent Families Scotland (opfs.org.uk)",1,1,2,1,7,0.251152,0.270118,12.333333,0.5
+99,A Scotland that Cares campaign,Community Advocacy,social|community,external analysis,A Scotland That Cares,8,4,12,1,6,0.333333,0.372171,916.403022,0.1
+100,Alliance Scotland,Community Advocacy,social|community,external analysis,The ALLIANCE - Health and Social Care Alliance Scotland (alliance-scotland.org.uk),2,10,12,1,5,0.392086,0.452446,374.416667,0.066667
+101,SAMH,Community Advocacy,social|mental health,MH charity,samh.org.uk,3,1,4,3,2,0.515152,0.529412,35.577381,0.083333
+102,See Me Scotland,Community Advocacy,social|mental health,MH charity,See Me | End Mental Health Stigma and Discrimination | End Mental Health Stigma and Discrimination (seemescotland.org),1,1,2,3,3,0.352941,0.37963,0,0.5
+103,The Trussell Trust,Community Advocacy,social,external analysis,Home - The Trussell Trust,2,1,3,1,5,0.286089,0.311468,3281.833333,0
+104,SCVO,Community Advocacy,social,external analysis,Scottish Council for Voluntary Organisations (scvo.scot),3,1,4,1,6,0.224742,0.240367,3187,0
+105,Scottish Leaders Forum,Community Advocacy,policy|charity|Institution,external analysis,Supporting Leaders in Scotland (scottishleadersforum.org),0,4,4,1,7,0.248307,0.292468,0,0.083333
+106,Scotland’s International Development Alliance,Community Advocacy,policy|charity|Institution,external analysis,Scotland's International Development Alliance - Scotland for a fairer world (intdevalliance.scot),2,1,3,1,12,0.125866,0.147663,8.166667,0.166667
+107,Scottish Communities for Health and wellbeing,Community Advocacy,policy|charity|Institution,external analysis,https://www.schw.co.uk/,0,1,1,1,7,0.251716,0.270693,0,0
+108,Development Trust Scotland,Community Advocacy,policy|charity|Institution,external analysis,https://dtascot.org.uk/,2,1,3,1,10,0.15959,0.186821,81.833333,0.166667
+109,Think Positive - Student Mental Health - Scotland,Community Advocacy,policy|charity|Institution,external analysis,Home - Think Positive - Student Mental Health - Scotland,0,4,4,3,10,0.18942,0.251312,0,0.083333
+110,Carnegie UK,Research Institutions,policy|Institution,external analysis,Home - Carnegie UK Trust,4,8,12,1,2,0.7,0.785714,519.315476,0.166667
+111,What works centre for wellbeing(closed),Research Institutions,policy|charity|Institution,external analysis,whatworkswellbeing.org,0,3,3,3,12,0.130024,0.175087,0,0
+112,Scottish Centre for Social Research (ScotCen),Research Institutions,policy|charity|Institution,external analysis,Scottish Centre for Social Research (ScotCen) | National Centre for Social Research (natcen.ac.uk),0,5,5,3,10,0.172144,0.240213,0,0
+113,Welbeing economy Alliance,Community Advocacy,policy|charity|Institution,external analysis,Wellbeing Economy Alliance (weall.org),4,9,13,1,5,0.427451,0.481193,1909.111355,0.118182
+114,Joseph Rowntree Foundation,Research Institutions,policy|charity|Institution,external analysis,Poverty in Scotland 2023 | Joseph Rowntree Foundation (jrf.org.uk),2,1,3,1,2,0.666667,0.75,0,0.333333
+115,mentalhealth.org,Research Institutions,health,external analysis,https://www.mentalhealth.org.uk/scotland/our-work/policy-and-advocacy/mental-health-wellbeing-strategy-scotland-2022,0,1,1,0,2,0.666667,0.75,0,0
+116,Research Scotland,Research Institutions,policy|politics,external analysis,Social Research to Public and Third Sector | Research Scotland,0,2,2,0,10,0.20709,0.244931,0,0.5
+117,IPPR Scotland,Research Institutions,policy|politics,external analysis,IPPR Scotland | IPPR,2,6,8,1,6,0.283117,0.338226,229.158974,0.125
+118,Corra Foundation,Community Advocacy,people|place,external analysis,Home (corra.scot),1,1,2,3,2,0.666667,0.75,1,0
+119,Citizens’ Assembly of Scotland,Public Engagement Channels,democracy,Holyrood Parliament,[ARCHIVED CONTENT] Citizens Assembly Main Report (nrscotland.gov.uk),0,1,1,0,2,0.666667,0.75,0,0
+120,Scotland’s Climate Assembly,Public Engagement Channels,democracy,Holyrood Parliament,Scotland's Climate Assembly - recommendations for action: SG response - gov.scot (www.gov.scot),0,1,1,0,2,0.666667,0.75,0,0
+121,Scottish Youth Parliament’s Manifesto,Public Engagement Channels,democracy,Holyrood Parliament,Manifesto - Scottish Youth Parliament (syp.org.uk),1,1,2,3,2,0.666667,0.75,1,0
+122,Social Renewal Advisory Board,Public Engagement Channels,democracy,Holyrood Parliament,"If not now, when? - Social Renewal Advisory Board report: January 2021 - gov.scot (www.gov.scot)",0,3,3,1,7,0.22869,0.265498,0,0.166667
+123,Scottish Parliament Citizens’ Panel on Covid-19,Public Engagement Channels,democracy,Holyrood Parliament,COVID-19: Citizen's Panel (parliament.scot),0,1,1,0,2,0.666667,0.75,0,0
+124,Scottish Futures Trust,Public body,policy|Institution,Holyrood Parliament,Home - Scottish Futures Trust,0,1,1,0,2,0.666667,0.75,0,0
+125,Wellbeing Economy monitor,Governmental,policy|Institution|Wbec mon,Holyrood Parliament,Wellbeing economy monitor - gov.scot (www.gov.scot),4,13,17,3,8,0.243848,0.375863,2093.430952,0.083333
+126,"Gary Gillespie, Scottish Government's Chief Economic Advisor",Governmental,policy|Institution|Wbec mon,Holyrood Parliament|external analysis,https://www.gov.scot/about/how-government-is-run/directorates/chief-economist-directorate/chief-economist/#:~:text=Gary%20Gillespie%20was%20appointed%20Director,1,4,5,3,10,0.167692,0.223915,84.5,0.2
+127,Business in the Community,Business Advisory,policy|Institution|Wbec mon,Holyrood Parliament|external analysis,https://www.bitc.org.uk/wp-content/uploads/2024/09/bitc-scotland-introduction-to-bitc-scotland-september24.pdf,2,1,3,3,9,0.196396,0.25363,7,0
+128,COSLA,Governmental,policy|Institution|Wbec mon,Holyrood Parliament|external analysis,https://www.cosla.gov.uk/,42,2,44,2,8,0.227557,0.300481,4572.985714,0.053156
+129,Fair Work Convention,Community Advocacy,policy|Institution|Wbec mon,Holyrood Parliament|external analysis,Governance - The Fair Work Convention,1,1,2,3,2,0.666667,0.75,0,0.5
+130,Future Economy Scotland,Community Advocacy,policy|Institution|Wbec mon,Holyrood Parliament|external analysis,https://www.futureeconomy.scot/about,1,1,2,3,2,0.666667,0.75,0,0.5
+131,Glasgow Caledonian University,Research Institutions,education|Institution|Wbec mon,Holyrood Parliament|external analysis,Wellbeing Economy Expert Advisory Group - gov.scot (www.gov.scot),6,1,7,3,9,0.196396,0.25363,1278.833333,0.066667
+132,Prosper,Community Advocacy,policy|charity|Institution|Wbec mon,Holyrood Parliament|external analysis,Wellbeing Economy Expert Advisory Group - gov.scot (www.gov.scot),3,30,33,2,7,0.292225,0.476955,6126.583333,0.073589
+133,Scotland CAN B,Community Advocacy,policy|charity|Institution|Wbec mon,Holyrood Parliament|external analysis,Wellbeing Economy Expert Advisory Group - gov.scot (www.gov.scot),1,1,2,3,2,0.666667,0.75,0,0.5
+134,Scottish Trades Union Congress,Community Advocacy,Business|Wbec mon,Holyrood Parliament|external analysis,Wellbeing Economy Expert Advisory Group - gov.scot (www.gov.scot),4,1,5,3,9,0.196396,0.25363,452.597619,0.083333
+135,SOLACE,Business Advisory,policy|Institution|Wbec mon,Holyrood Parliament|external analysis,Wellbeing Economy Expert Advisory Group - gov.scot (www.gov.scot),1,3,4,2,9,0.188581,0.240174,33,0.25
+136,University of Glasgow,Research Institutions,education|Institution|Wbec mon,Holyrood Parliament|external analysis,Wellbeing Economy Expert Advisory Group - gov.scot (www.gov.scot),5,1,6,3,11,0.142112,0.167971,129.583333,0.033333
+137,Wellbeing Economy Alliance (WEAll) Scotland,Community Advocacy,social|community|Wbec mon,Holyrood Parliament|external analysis,Wellbeing Economy Expert Advisory Group - gov.scot (www.gov.scot),1,1,2,3,9,0.196396,0.25363,0,0
+138,Human Rights Consortium Scotland,Community Advocacy,policy|charity|Institution,Holyrood Parliament|external analysis,Wellbeing Economy Expert Advisory Group - gov.scot (www.gov.scot),0,3,3,3,10,0.168421,0.217173,0,0
+139,WellBeing Economy Governments(WEGo),Governmental,policy|politics|Instution|International,external analysis|International institution,Wellbeing Economy Governments (WEGO) : Wellbeing Economy Alliance (weall.org),0,1,1,0,2,0.666667,0.75,0,0
+140,OECD,Research Institutions,policy|politics|Instution|International,external analysis|International institution,www.oecd.org,1,2,3,0,2,0.6,0.666667,4,0.166667
+141,B Corporation,Research Institutions,policy|politics|Instution|International,external analysis|International institution,The UK B Corporation Movement,0,2,2,0,2,0.6,0.666667,0,0
+142,Scottish Universities Insight Group(SUII),Research Institutions,education|Institution,external analysis,Scottish Universities Insight Institute > Home (scottishinsight.ac.uk),4,1,5,3,10,0.164902,0.200215,669.166667,0
+143,Scottish Futures Forum,Governmental,policy|politics|Institution,Holyrood Parliament,Scotland's Futures Forum (scotlandfutureforum.org),0,3,3,3,7,0.234043,0.270563,0,0.166667
+144,John Swinney,Governmental,policy|politics|SNP|Scottish Government|National Performace Framework,Holyrood Parliament|SNP,First Minister - gov.scot (www.gov.scot),2,5,7,1,2,0.857143,0.916667,9,0.261905
+145,The Poverty Alliance Scotland,Community Advocacy,policy|charity|Institution,advocacy,The Poverty Alliance,3,17,20,1,4,0.394928,0.468654,3476.53956,0.055556
+146,UWS,Research Institutions,education|Institution|Wbec mon,external analysis,Research (uws.ac.uk),2,1,3,3,11,0.142298,0.16843,39.833333,0
+147,University of Strathclyde  & Centre for Sustainable Development,Research Institutions,education|Institution|Wbec mon,external analysis,Networks (sharepoint.com),7,1,8,3,11,0.142298,0.16843,240.916667,0.053571
+148,New Deal for Business Group,Governmental Advisory,Business|Wbec mon,advocacy,,0,6,6,3,8,0.237069,0.333052,0,0.2
+149,Fraser of Allander,Business Advisory,Business|Research,external analysis,Publications | Fraser of Allander Institute (FAI) (strath.ac.uk),2,1,3,3,12,0.125287,0.147051,0,0.333333
+150,Audit Scotland,Governmental,policy|Institution,public body,What we do | Audit Scotland,0,47,47,2,10,0.258581,0.538629,0,0.015264
+151,CMO Directorate,Governmental,policy|Institution,public body,Chief Medical Officer Directorate - gov.scot (www.gov.scot),0,2,2,0,10,0.20709,0.244931,0,0.5
