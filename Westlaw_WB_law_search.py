@@ -22,7 +22,6 @@ from PIL import Image
 
 #logo.putdata(new_data)
 
-# Sample data provided as a list
 years = [
     1978, 1981, 1982, 1989, 1990, 1994, 1995, 1995, 1995, 1997, 1999, 2001, 2002, 2002, 
     2003, 2003, 2003, 2004, 2005, 2006, 2007, 2007, 2007, 2010, 2010, 2010, 2011, 2011, 
@@ -51,8 +50,6 @@ plt.plot(data['year'], data['cumulative_count'], marker='o', linestyle='-', colo
 midpoint = len(data) // 2
 plt.annotate('Cumulative Count', xy=(data['year'].iloc[midpoint], data['cumulative_count'].iloc[midpoint]), xytext=(data['year'].iloc[midpoint] + 2, data['cumulative_count'].iloc[midpoint] - 5),
              arrowprops=dict(facecolor='black', shrink=0.15), fontsize=15, color='black')
-
-# Customize the plot
 plt.xlabel('Year', fontsize=14)
 plt.ylabel('Number of Legislations Mentioning Wellbeing', fontsize=14)
 plt.title('Distribution of Legislations by Year', fontsize=16)
@@ -70,7 +67,7 @@ plt.gca().spines['right'].set_visible(False)
 source_text = "Source:\nhttps://uk.westlaw.com/SharedLink/5ce779e8114e41ba9a1520b9942319cb?VR=3.0&RS=cblt1.0"
 plt.text(0.01, 0.98, source_text, fontsize=10, verticalalignment='top', transform=plt.gca().transAxes, bbox=dict(facecolor='white', alpha=0.5))
 
-# Add the logo image
+# Add the logo image  - ignore this#
 #imagebox = plt.gca().inset_axes([0.01, 0.02, 0.1, 0.2], transform=plt.gca().transAxes)  # Adjust position and size
 #imagebox.imshow(logo)
 #imagebox.axis('off')
